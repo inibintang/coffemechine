@@ -9,7 +9,7 @@ namespace TheCoffeMechine
         {
             Console.WriteLine("Hello kopi");
 
-            Milk milk = new Milk(100);
+            Milk milk = new Milk(1000);
             CoffePowder coffe = new CoffePowder(100);
             WaterGalon water = new WaterGalon(1000);
             CoffeMechine yummyCoffe = new CoffeMechine(coffe, water, milk);
