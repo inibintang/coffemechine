@@ -1,0 +1,11 @@
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\obj\Debug\netcoreapp3.1\coffeemesin.csprojAssemblyReference.cache
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\obj\Debug\netcoreapp3.1\coffeemesin.AssemblyInfoInputs.cache
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\obj\Debug\netcoreapp3.1\coffeemesin.AssemblyInfo.cs
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\bin\Debug\netcoreapp3.1\coffeemesin.exe
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\bin\Debug\netcoreapp3.1\coffeemesin.deps.json
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\bin\Debug\netcoreapp3.1\coffeemesin.runtimeconfig.json
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\bin\Debug\netcoreapp3.1\coffeemesin.runtimeconfig.dev.json
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\bin\Debug\netcoreapp3.1\coffeemesin.dll
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\bin\Debug\netcoreapp3.1\coffeemesin.pdb
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\obj\Debug\netcoreapp3.1\coffeemesin.dll
+F:\pemrograman\tgs4-enkap-30mar\coffeemesin\obj\Debug\netcoreapp3.1\coffeemesin.pdb
